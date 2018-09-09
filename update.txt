@@ -1,2 +1,2 @@
 hupai.exe
-lib\gson.jar
+lib\lib\gson.jar
