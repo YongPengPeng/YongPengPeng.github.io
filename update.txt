@@ -1,2 +1,2 @@
 hupai.exe
-resources\cancelButton\3.png
+lib\gson.jar
