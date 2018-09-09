@@ -1,2 +1,4 @@
-hupai.exe
-lib\lib\gson.jar
+[
+{"from":"hupai.exe","to":"test/hupai.exe"},
+{"from":"gson.jar","to":"test/lib/gson.jar"}
+]
