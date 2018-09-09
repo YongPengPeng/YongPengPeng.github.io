@@ -1,0 +1,2 @@
+hupai.exe
+resources\cancelButton\3.png
