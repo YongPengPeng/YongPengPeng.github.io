@@ -1,0 +1,6 @@
+from是根据当前update目录得到的
+to是根据程序总目录得到的
+[
+{"from":"hupai.exe","to":"test/hupai.exe"},
+{"from":"gson.jar","to":"test/lib/gson.jar"}
+]
