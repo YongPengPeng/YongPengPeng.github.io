@@ -1,4 +1,5 @@
 [
-{"from":"hupai.exe","to":"test/hupai.exe"},
-{"from":"gson.jar","to":"test/lib/gson.jar"}
+{"from":"hupai.exe","to":"hupai.exe"},
+{"from":"hupai.config","to":"hupai.config"},
+{"from":"lombok.jar","to":"lib/lombok.jar"}
 ]
