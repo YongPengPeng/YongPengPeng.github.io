@@ -1,5 +1,3 @@
 [
-{"from":"hupai.exe","to":"hupai.exe"},
-{"from":"hupai.config","to":"hupai.config"},
-{"from":"lombok.jar","to":"lib/lombok.jar"}
+{"from":"hupai.exe","to":"hupai.exe"}
 ]
