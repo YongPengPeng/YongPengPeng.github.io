@@ -1,5 +1,5 @@
 {"files":[{"filePath":"hupai.config","shaString":"88f8b3114508a21142483ca46b3ee96c79f46838"},
-{"filePath":"hupai.exe","shaString":"85d89c361bfe353c62be1823fbb964d22d2b36d4"},
+{"filePath":"hupai.exe","shaString":"39f24aa273a67d93603847e4198ab91cd43c4b76"},
 {"filePath":"lib\\gson.jar","shaString":"3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf"},
 {"filePath":"lib\\lombok.jar","shaString":"524e0a697e9d62950b2f763d88d35cd8dc82a9a1"},
 {"filePath":"lib\\picture.jar","shaString":"a6d16bcf07960335c25ff3a0ade39063222d686c"},
